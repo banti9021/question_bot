@@ -1,0 +1,14 @@
+
+
+langchain
+pypdf
+streamlit
+faiss-cpu
+boto3
+python-dotenv
+pinecone-client
+
+
+
+
+-e .
